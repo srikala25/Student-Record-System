@@ -1,0 +1,5 @@
+Sudha Mathew:mypass123:Maths:A:B:C:D
+Shalaka Deshmukh:shalaka123:Science:B:A:C:D
+Abc Def:abc123:Social:C:A:B:D
+Mno Pqr:pqr123:English:_:A:C:D
+Xyz Hello:hello123:Hindi:D:A:B:D
